@@ -13,3 +13,4 @@ def minOperations(n):
             t += m
             n /= m
         m += 1
+    return t
